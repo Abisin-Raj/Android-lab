@@ -7,6 +7,7 @@
     <uses-sdk
         android:minSdkVersion="16"
         android:targetSdkVersion="16" />
+<!-- only write this in record. and tell to write add this permission in android manifest -->
 <uses-permission android:name="android.permission.INTERNET" />
 <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
     <application
