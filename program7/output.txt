@@ -1,0 +1,9 @@
+## Program 7: Spinner (Semester)
+**Description:** A dropdown menu (Spinner) containing semester names.
+**Visual:**
+```
++--------------------------+
+| [ 3rd Semester      v ]  | (Spinner)
+|                          |
++--------------------------+
+```
