@@ -1,0 +1,14 @@
+## Program 4: Alert Box
+**Description:** A button that triggers a standard Android Alert Dialog with "Ok" and "Cancel" buttons.
+**Visual:**
+```
++--------------------------+
+|  [ ALERT ]      (Button) |
+|      +-------------+     |
+|      | Alert Box   |     |
+|      | This is an  |     |
+|      | Alert Box   |     |
+|      | [OK] [CANCEL]|    |
+|      +-------------+     |
++--------------------------+
+```
