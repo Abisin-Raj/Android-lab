@@ -1,0 +1,11 @@
+## Program 15: Background Image
+**Description:** A button that changes the activity layout background to a predefined image.
+**Visual:**
+```
++--------------------------+
+|      [ CHANGE ]          |
+|                          |
+| (Background is Image3)   |
+|                          |
++--------------------------+
+```
