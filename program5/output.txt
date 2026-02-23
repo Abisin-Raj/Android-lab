@@ -1,0 +1,16 @@
+## Program 5: Options Menu
+**Description:** Three items in the top-right options menu. Selecting one shows a Toast.
+**Visual:**
+```
++--------------------------+
+|                    [ : ] | (Menu)
+|                          |
+|  +-------------------+   |
+|  | Item 1            |   |
+|  | Item 2            |   |
+|  | Item 3            |   |
+|  +-------------------+   |
+|                          |
+| [ Selected Item 1 ]      | (Toast)
++--------------------------+
+```
