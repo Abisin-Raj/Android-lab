@@ -1,0 +1,14 @@
+## Program 12: Gallery Image Loader
+**Description:** A button that opens the gallery and displays the selected image in an ImageView.
+**Visual:**
+```
++--------------------------+
+|      [ LOAD IMAGE ]      |
+|                          |
+|      +----------+        |
+|      |          |        |
+|      |  IMAGE   |        |
+|      |          |        |
+|      +----------+        |
++--------------------------+
+```
