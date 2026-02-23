@@ -1,0 +1,9 @@
+## Program 10: Date and Time Pickers
+**Description:** Buttons to open DatePickerDialog and TimePickerDialog, displaying selection in text fields.
+**Visual:**
+```
++--------------------------+
+| [ SELECT DATE ] [ 23-2-2026 ] |
+| [ SELECT TIME ] [ 19:20 ]     |
++--------------------------+
+```
