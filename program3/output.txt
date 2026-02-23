@@ -1,0 +1,14 @@
+## Program 3: Date and Time Dialog
+**Description:** A button that, when clicked, opens a dialog showing the current system date and time.
+**Visual:**
+```
++--------------------------+
+|  [ SHOW TIME ]  (Button) |
+|      +-------------+     |
+|      | Date & Time |     |
+|      | 23-02-2026  |     |
+|      | 19:15:00    |     |
+|      |    [ OK ]   |     |
+|      +-------------+     |
++--------------------------+
+```
