@@ -1,0 +1,10 @@
+## Program 13: Default Hello World
+**Description:** Standard Android "Hello World" screen with single TextView.
+**Visual:**
+```
++--------------------------+
+|                          |
+|       Hello World!       |
+|                          |
++--------------------------+
+```
