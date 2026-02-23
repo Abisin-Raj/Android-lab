@@ -1,0 +1,12 @@
+## Program 11: Contacts Grid
+**Description:** Fetches system contacts and displays name and number in a GridView.
+**Visual:**
+```
++--------------------------+
+| [ Alice    ] [ Bob      ] |
+| [ 123456   ] [ 789012   ] |
+|                          |
+| [ Charlie  ] [ David    ] |
+| [ 345678   ] [ 901234   ] |
++--------------------------+
+```
