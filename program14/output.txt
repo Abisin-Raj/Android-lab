@@ -1,0 +1,11 @@
+## Program 14: Color Changer
+**Description:** Buttons to set the background color of the layout.
+**Visual:**
+```
++--------------------------+
+| [ SET COLOR ] [ CLEAR ]  |
+|                          |
+| (Background is Magenta)  |
+|                          |
++--------------------------+
+```
