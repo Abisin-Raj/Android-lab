@@ -1,0 +1,12 @@
+## Program 6: Radio Buttons (Gender)
+**Description:** A group of radio buttons (Male, Female, Other) and a TextView showing the selection.
+**Visual:**
+```
++--------------------------+
+| ( ) Male                 |
+| ( ) Female               |
+| ( ) Other                |
+|                          |
+| You are a woman!         |
++--------------------------+
+```
