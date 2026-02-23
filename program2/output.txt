@@ -1,0 +1,12 @@
+## Program 2: Simple Addition
+**Description:** Two input fields, a button, and a result label. Adds two numbers.
+**Visual:**
+```
++--------------------------+
+|  [ Number 1 ]   (Input)  |
+|  [ Number 2 ]   (Input)  |
+|  [ ADD ]         (Button)|
+|                          |
+|  Result: 15              |
++--------------------------+
+```
