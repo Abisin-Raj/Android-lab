@@ -1,0 +1,15 @@
+## Program 9: CheckBoxes (Literacy)
+**Description:** Multiple checkboxes for languages. Displays literacy status.
+**Visual:**
+```
++--------------------------+
+| [x] Read Malayalam       |
+| [x] Write Malayalam      |
+| [ ] Read English         |
+| [ ] Write English        |
+|      [ CHECK ]           |
+|                          |
+| you can read Malayalam,  |
+| write Malayalam          |
++--------------------------+
+```
